@@ -31,9 +31,9 @@
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light](<img width="774" height="438" alt="Task Managment" src="https://github.com/user-attachments/assets/0438089d-de99-4639-b208-2a7585d5c7a1" />
-) | ![Dark](<img width="1349" height="614" alt="Screenshot 2025-07-30 185402" src="https://github.com/user-attachments/assets/d6d00f1e-f661-420c-93d4-707ad24f1c34" />
-rk.png) |
+
+<img width="774" height="438" alt="Screenshot 2025-07-30 183540" src="https://github.com/user-attachments/assets/76c36317-041e-4526-9701-e5ad01febdfb" />
+<img width="1349" height="614" alt="Screenshot 2025-07-30 185402" src="https://github.com/user-attachments/assets/1a0059a9-f69b-4793-b850-9173e8ae19fe" />
 
 ---
 
