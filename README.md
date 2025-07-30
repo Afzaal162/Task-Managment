@@ -2,7 +2,8 @@
 
 **TaskFlow** is a sleek, responsive, and feature-rich task management app built using **HTML**, **CSS**, and **JavaScript**. Designed for productivity lovers, this app makes managing your daily tasks not only easier but more enjoyable, thanks to smart animations, dark mode, and cool features like voice input and confetti celebrations!
 
-![TaskFlow Banner](<img width="774" height="438" alt="Task Managment" src="https://github.com/user-attachments/assets/3d53e95e-f993-448f-addd-5aeab3cc0d9b" />)
+![TaskFlow Banner](<img width="774" height="438" alt="Screenshot 2025-07-30 183540" src="https://github.com/user-attachments/assets/8f65a8b1-71e2-4467-bc18-b34ce384bad6" />
+)
 
 ---
 
@@ -31,7 +32,7 @@
 | Light Mode | Dark Mode |
 |------------|-----------|
 | ![Light](<img width="774" height="438" alt="Task Managment" src="https://github.com/user-attachments/assets/0438089d-de99-4639-b208-2a7585d5c7a1" />
-) | ![Dark](./assets/screenshot-da<img width="1349" height="614" alt="Screenshot 2025-07-30 185402" src="https://github.com/user-attachments/assets/d6d00f1e-f661-420c-93d4-707ad24f1c34" />
+) | ![Dark](<img width="1349" height="614" alt="Screenshot 2025-07-30 185402" src="https://github.com/user-attachments/assets/d6d00f1e-f661-420c-93d4-707ad24f1c34" />
 rk.png) |
 
 ---
